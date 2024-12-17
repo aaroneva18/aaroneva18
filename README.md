@@ -19,8 +19,8 @@
 - :computer: I answer problems from: `Leetcode`.
 - :student: I’m currently learning `Data base` and `Artifical Intelligence`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1nJuhJNdnXa6pdo9Z8K1Y_jI8kPBOsUz1?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://aaronevacom.wordpress.com/).
 <br>
 
   </p>
